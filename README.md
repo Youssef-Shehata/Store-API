@@ -1,5 +1,5 @@
 # Store Api
-new simple api coded along freecodecamp toturial ..
+a simple store api coded along freecodecamp toturial ..
 ## Table of Contents
 
 - [Installation](#installation)
