@@ -22,21 +22,11 @@ To install this project, follow these steps:
 Here's how you can use this project:
 
 Visit localhost:3000/products to see all available products .
-add the following queries to filter your result the way you want :
-1. name(STRING) : search by name .
-2. featured(BOOLEAN) : get featured content.
-3. company(STRING) : get products from your favorite company of choice (from the available ones tho)
-4. sort(comma seprated values) : sort content alphapetically or by date , price or rating , just send the value you prefer.
-5. fields(comma seprated values) : choose the fields you want in the response json object.
-6. numericFilters(exp: price>40) : filters by a certain range for price or rating .
+
    
 
 
 
-
-
-##  available companies
-[ikea', 'liddy', 'caressa', 'marcos']
 
 
 
